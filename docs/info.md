@@ -30,4 +30,8 @@ To change the frequency, set the inputs and then raise the 'load divider' input.
 
 ## External hardware
 
-A multimeter to measure the output voltage on analog pin 0.
+An oscilloscope to measure the output voltage on analog pin 0.
+
+## Test
+
+![test](remmina_Quick%20Connect_192.168.50.11_20251107-121943.png)
