@@ -34,4 +34,4 @@ An oscilloscope to measure the output voltage on analog pin 0.
 
 ## Test
 
-![test](remmina_Quick%20Connect_192.168.50.11_20251107-121943.png)
+![test](scope_image.png)
